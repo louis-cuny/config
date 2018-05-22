@@ -1,18 +1,6 @@
-objective-php/docu-mentor
+objective-php/config
 ===
 
-Menu
---------------
-
-[Quick Start] 
-
-[Detailed Usage]
-
-[Config Directives]
-
-[Api Doc]
-
-[Faq]
 
 Description
 ------------
